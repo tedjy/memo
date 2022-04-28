@@ -1,0 +1,55 @@
+/*css.php*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: auto;
+  text-decoration: none;
+
+}
+
+
+body {
+  background-color: #E4EAF1, opacity:0.2 ;
+}
+
+
+div.title-p {
+  margin-top: 20px;
+}
+
+.display{
+  padding: 10px;
+}
+
+.picture {
+padding: 20px 15px 20px 15px;
+}
+
+.picture img {
+height: 250px;
+background-size: cover;
+}
+
+.style {
+  color: #556F7A;
+}
+
+.style-title {
+  color: #234B57;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.min-style-title {
+  color: #3A7D92;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 20px;
+  text-align: center;
+  padding: 5px;
+}
+
